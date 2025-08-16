@@ -40,7 +40,7 @@ src/
    npm run dev
    ```
 
- **Live Demo**: [Click here to view the deployed app](upkraft-project.vercel.app)
+ **Live Demo**: [Click here to view the deployed app](https://upkraft-project.vercel.app)
 
 ## Final output
 <img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/e604e1fb-cc64-42a6-8f18-7f2e1f056ff2" />
